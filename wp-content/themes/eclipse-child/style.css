@@ -1,0 +1,10 @@
+/*   
+Theme Name: Eclipse-Child
+Author: kuboon
+Template: eclipse
+*/
+@import url("/wp-content/themes/eclipse/style.css");
+
+.post h3 { border-bottom: dotted 1px gray; margin-top: 1em;}
+.post th { border-top: 1px solid #DDD; padding: 0 10px; vertical-align: middle; font-weight: bold; }
+.post td { padding-right: 50px;}
